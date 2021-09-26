@@ -11,4 +11,4 @@ The App starts with a home screen.
 Then a Screen Opens where 2 players can play TicTacToe.
 
 
-![WhatsApp Image 2021-09-26 at 21 26 28](https://user-images.githubusercontent.com/60402647/134815514-b846d02e-1637-4f83-af96-65fe77a195eb.jpeg)
+![WhatsApp Image 2021-09-26 at 21 26 28 (2)](https://user-images.githubusercontent.com/60402647/134815551-28abf9ae-687e-47de-b37b-fc97e4f9964e.jpeg)
