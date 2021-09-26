@@ -53,6 +53,9 @@ class MainActivity : AppCompatActivity() {
                     constants.variable = 'O'
                     txt1.setText("Player ${constants.variable} turn")
                 }
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
 
         }
@@ -81,6 +84,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
         }
         bt3.setOnClickListener {
@@ -109,6 +115,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
         }
         bt4.setOnClickListener {
@@ -135,6 +144,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
         }
         bt5.setOnClickListener {
@@ -161,6 +173,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
         }
         bt6.setOnClickListener {
@@ -187,6 +202,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
         }
         bt7.setOnClickListener {
@@ -213,6 +231,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
 
         }
@@ -240,6 +261,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
         }
         bt9.setOnClickListener {
@@ -267,6 +291,9 @@ class MainActivity : AppCompatActivity() {
                 else
                     constants.variable = 'O'
                 txt1.setText("Player ${constants.variable} turn")
+                if(constants.chance == 9){
+                    txt1.setText("Its a Draw")
+                }
             }
 
         }
